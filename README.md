@@ -29,7 +29,7 @@ Ele garante uma boa experiência de interação evitando ou minimizando dificuld
 Para fazer o deploy desse projeto rode
 
 - Primeiramente crie uma pasta nova na área de trabalho entre nela e de cmd;
-- Após isso clone o repositorio git com o seguinte comando no `git clone https://github.com/Project-BLUELOCK/ATVI-WB`;
+- Após isso clone o repositorio git com o seguinte comando no `git clone https://github.com/Project-BLUELOCK/ATVII-WB`;
 - Entre na pasta utilizando `cd ATVII-WB`;
 - Dê `npm install` para instalar as dependências necessárias para rodar o projeto;
 - Escreva o código `npm run start`;
